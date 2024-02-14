@@ -74,11 +74,11 @@ Badges for your personal developer branding, profile, and projects.
 <br/>
 <br/>
 
-#### 3 . [Count Visitors Badges](https://github.com/jwenjian/visitor-badge)
+#### 3 . [View Count Badge](https://github.com/dwyl/hits)
 
-A badge generator service to count visitors of your markdown file.
+A badge generator service that counts views on your markdown file.
 
-📍 For example : &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+📍 For example : &nbsp; ![HitCount](https://hits.dwyl.com/dwyl/hits.svg?style=flat-square)
 <br/>
 <br/>
 
@@ -153,18 +153,7 @@ It counts how many times your GitHub profile has been viewed. Free cloud micro-s
 <br/>
 <br/>
 
-#### 12 . [Github Profile Views Counter](https://github.com/arturssmirnovs/github-profile-views-counter)
-
-Github new features README profile views counter made with Yii2 framework.
-
-📍 For example :
-<br/>
-<br/>
-<img src="https://camo.githubusercontent.com/70efda0ea25590e8ec1d45dad689865a24485a757d9359a4547218d25c0fa352/68747470733a2f2f677076632e6172747572696f2e6465762f6769746875622d70726f66696c652d76696577732d636f756e746572" alt="Profile views" data-canonical-src="https://gpvc.arturio.dev/github-profile-views-counter" style="max-width: 100%;">
-<br/>
-<br/>
-
-#### 13 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
+#### 12 . [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)
 
 Some badges I created for my GitHub profile readme.
 
@@ -175,7 +164,7 @@ Some badges I created for my GitHub profile readme.
 <br/>
 <br/>
 
-#### 14 . [AppVeyor](https://www.appveyor.com/docs/status-badges/)
+#### 13 . [AppVeyor](https://www.appveyor.com/docs/status-badges/)
 
 A Project status badge is a dynamically generated image displaying the status of the last build. You can put a status badge on the home page of your GitHub project or intranet portal:
 
@@ -184,7 +173,7 @@ A Project status badge is a dynamically generated image displaying the status of
 <br/>
 <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Grunt status"> <img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true&amp;passingText=master%20-%20OK" alt="Project Badge">
 
-#### 15 . [For The Badge](https://github.com/BraveUX/for-the-badge)
+#### 14 . [For The Badge](https://github.com/BraveUX/for-the-badge)
 
 Badges for badges' sake.
 
@@ -194,7 +183,7 @@ Badges for badges' sake.
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
 <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="Grunt status">
 
-#### 16 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
+#### 15 . [Grunt Badge](https://gruntjs.com/built-with-grunt-badge)
 
 Do you use Grunt in a project and want to proudly display that in your project README or on your project website? Now you can with the "Built with Grunt" badge!
 
@@ -202,7 +191,7 @@ Do you use Grunt in a project and want to proudly display that in your project R
 
 <img src="https://cdn.gruntjs.com/builtwith.svg" alt="Built with Grunt"> <img src="https://s3.amazonaws.com/assets.coveralls.io/badges/coveralls_100.svg" alt="Coverage Status">
 
-#### 17 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
+#### 16 . [semaphoreci Status Badges](https://docs.semaphoreci.com/essentials/status-badges/)
 
 create a badge that displays your project's current build status. The build status is determined by the status of the first pipeline in your newest workflow. You can use this badge in your project's README file or any web page.
 
@@ -210,7 +199,7 @@ create a badge that displays your project's current build status. The build stat
 
 <img alt="semaphore docs" src="https://semaphore.semaphoreci.com/badges/docs/branches/master.svg">
 
-#### 18 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
+#### 17 . [Aoc Badges Action](https://github.com/J0B10/aoc-badges-action)
 
 Github Action to update the badges of your Readme to show your current Advent of Code stats
 
@@ -218,7 +207,7 @@ Github Action to update the badges of your Readme to show your current Advent of
 
 <img src="https://camo.githubusercontent.com/604c50b3ae16d7373a6a162f22e8e0354e1bb2081dfd61ce68b1007af2faa70f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6461792532302546302539462539332538352d32322d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/day%20%F0%9F%93%85-22-blue" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c3d63f570446277a9c3381343581ce07ebbde605d58e866da3fd4d52c9adaae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746172732532302545322541442539302d33342d79656c6c6f77" alt="" data-canonical-src="https://img.shields.io/badge/stars%20%E2%AD%90-34-yellow" style="max-width: 100%;">
 
-#### 19 . [Github Badges](https://github.com/eugustavo/github-badges)
+#### 18 . [Github Badges](https://github.com/eugustavo/github-badges)
 
 Application made to create badges for your readme 📑
 
@@ -226,7 +215,7 @@ Application made to create badges for your readme 📑
 
 <img alt="GithubBadges" src="https://camo.githubusercontent.com/9b49974fc2ff46828045e867a959e0502e14bf954c9ffb6b36b995f9ac114ad9/68747470733a2f2f692e696d6775722e636f6d2f695648666c4c552e676966" data-canonical-src="https://i.imgur.com/iVHflLU.gif" style="max-width: 100%;">
 
-#### 20 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
+#### 19 . [Discord Md Badge](https://github.com/ashmonty/discord-md-badge)
 
 Add to your GitHub readme a badge that shows your Discord username and presence!
 
@@ -234,7 +223,7 @@ Add to your GitHub readme a badge that shows your Discord username and presence!
 
 <img src="https://camo.githubusercontent.com/d01429f8fe0330ac6e0123f60fb037db4433d7b931ae8b9e5072b3813d01ba44/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f736869656c642f3835323937373936373737363339393430303f626f743d74727565" alt="for-the-badge (default)" data-canonical-src="https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true" style="max-width: 100%;">
 
-#### 21 . [simple badges](https://github.com/developStorm/simple-badges)
+#### 20 . [simple badges](https://github.com/developStorm/simple-badges)
 
 Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 
@@ -242,7 +231,7 @@ Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Iconify Badge](https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=fff&style=flat-square) ![FIFA Badge](https://img.shields.io/badge/FIFA-326295?logo=fifa&logoColor=fff&style=plastic)
 
-#### 22 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+#### 21 . [GitHub Profile Badges](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 
 Clean badges for your GitHub Profile Readme
 
@@ -251,20 +240,20 @@ Clean badges for your GitHub Profile Readme
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
 
-#### 23 . [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
+#### 22 . [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
 
 Allows users to more easily use Octicons and their own icons and logos in shields.io badges
 
 📍 For example :
 
-<p dir="auto"><a href="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1/custom-icon-badges?logo=star" rel="nofollow"><img src="https://camo.githubusercontent.com/320a36935cdbebab0c0fb2f90bb04262e6264c927b4bab99def395d02c89b5c7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f73746172732f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d73746172" alt="stars" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/stars/DenverCoder1/custom-icon-badges?logo=star" style="max-width: 100%;"></a>
-<a href="https://custom-icon-badges.herokuapp.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue" rel="nofollow"><img src="https://camo.githubusercontent.com/8b0db5ed952994ff48cafd1294e0085c9b7170a805f47475937548d78bb613da/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f6973737565732d7261772f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d6973737565" alt="open issues" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue" style="max-width: 100%;"></a>
-<a href="https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=repo" rel="nofollow"><img src="https://camo.githubusercontent.com/8039215166b89ec6ad27b3421ac2cc2d7ab26e0029dc7e09952a79668d1bf596/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f6c6963656e73652f64656e766572636f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d7265706f" alt="license" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=repo" style="max-width: 100%;"></a>
-<a href="https://custom-icon-badges.herokuapp.com/github/workflow/status/DenverCoder1/custom-icon-badges/Node.js%20CI?logo=check-circle-fill&amp;logoColor=white" rel="nofollow"><img src="https://camo.githubusercontent.com/07496f5b8d244b13bbe160e33868ee28c7fd730a20d4d0624d6dbec34936ad71/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f776f726b666c6f772f7374617475732f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765732f4e6f64652e6a7325323043493f6c6f676f3d636865636b2d636972636c652d66696c6c266c6f676f436f6c6f723d7768697465" alt="build" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/workflow/status/DenverCoder1/custom-icon-badges/Node.js%20CI?logo=check-circle-fill&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://custom-icon-badges.herokuapp.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&amp;logoColor=white" rel="nofollow"><img src="https://camo.githubusercontent.com/349db4a1624a2abbadcfec87d248e21382ca4e3b910797b91f19a51fe210fc3f/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f6769746875622f6c6173742d636f6d6d69742f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f6c6f676f3d686973746f7279266c6f676f436f6c6f723d7768697465" alt="last commit" data-canonical-src="https://custom-icon-badges.herokuapp.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&amp;logoColor=fff&amp;color=blue&amp;label=total%20contributions&amp;query=%24.totalContributions&amp;url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" rel="nofollow"><img src="https://camo.githubusercontent.com/4f9857c76e594acc5d15e5d7f4da909d259ba56625a4a7e0b45c05d7852e85d7/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d6772617068266c6f676f436f6c6f723d66666626636f6c6f723d626c7565266c6162656c3d746f74616c253230636f6e747269627574696f6e732671756572793d2532342e746f74616c436f6e747269627574696f6e732675726c3d68747470732533412532462532466769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2532462533467573657225334444656e766572436f64657231253236747970652533446a736f6e" alt="total contributions" data-canonical-src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&amp;logoColor=fff&amp;color=blue&amp;label=total%20contributions&amp;query=%24.totalContributions&amp;url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DDenverCoder1%26type%3Djson" style="max-width: 100%;"></a></p>
+[![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)
+[![open issues](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)
+[![license](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law)
+[![build](https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white)](https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white)
+[![last commit](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white)](https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white)
+[![total contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson)](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson)
 
-#### 24 . [pepy](https://github.com/psincraian/pepy)
+#### 23 . [pepy](https://github.com/psincraian/pepy)
 
 pepy is a site to get statistics information about any Python package
 
@@ -272,7 +261,7 @@ pepy is a site to get statistics information about any Python package
 
 [![Downloads](https://pepy.tech/badge/django-audio-validator)](https://pepy.tech/project/django-audio-validator)
 
-#### 25 . [Version Badge](https://badge.fury.io/)
+#### 24 . [Version Badge](https://badge.fury.io/)
 
 Once the package owner adds this badge to their README file, it will inform and link all visitors to the latest version of that package.
 
@@ -280,15 +269,15 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![PyPI version](https://badge.fury.io/py/django-audio-validator.svg)](https://badge.fury.io/py/django-audio-validator)
 
-#### 26 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
+#### 25 . [Peerlist Profile Badge](https://github.com/vinitshahdeo/peerlist-readme-badge)
 
 [Peerlist](https://peerlist.io/) is a community of working professionals focused on building a personal brand, sharing professional content, and finding peers to collaborate with. A [Peerlist profile](https://peerlist.io/vinitshahdeo) can be used as a simple resume or a complete portfolio to showcase your work. You can style your profile `README.md` with an awesome Peerlist markdown badge.
 
 📍 For example :
 
-[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
+![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)
 
-#### 27 . [hits](https://github.com/silentsoft/hits)
+#### 26 . [hits](https://github.com/silentsoft/hits)
 
 📈 Hit Counter for Your GitHub or Any Kind of Websites You Want. 
 
@@ -296,7 +285,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Hits](https://hits.sh/github.com/rzashakeri/beautify-github-profile.svg)](https://hits.sh/github.com/rzashakeri/beautify-github-profile/)
 
-#### 28 . [gradient badge](https://github.com/bokub/gradient-badge)
+#### 27 . [gradient badge](https://github.com/bokub/gradient-badge)
 
 🍭 Badge generator with color gradient support
 
@@ -304,7 +293,7 @@ Once the package owner adds this badge to their README file, it will inform and 
 
 [![Badge](https://ucrm99m8og96.runkit.sh)](https://git.io/gradientbadge)
 
-#### 29 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
+#### 28 . [Topmate Profile Badge](https://github.com/vinitshahdeo/topmate-readme-badge)
 
 Topmate is a platform to connect 1:1 with your audience & monetise your time better. Basically, [one link](https://topmate.io/vinitshahdeo) to do it all. Even better, you can now add a markdown badge in your GitHub profile README to connect with your community! Try it out here: [topmate-readme-badge.netlify.app](https://topmate-readme-badge.netlify.app/)
 
@@ -312,13 +301,21 @@ Topmate is a platform to connect 1:1 with your audience & monetise your time bet
 
 [![Topmate](https://topmate-readme-badge.herokuapp.com/vinitshahdeo)](https://topmate.io/vinitshahdeo)
 
-#### 30 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
+#### 29 . [GitHub Profile Views Counter](https://github.com/u8views/go-u8views/)
 
 Track your GitHub profile views and analyze statistics.
 
 📍 For example :
 
-[![Yaroslav Podorvanov profile views](https://github.com/u8views/go-u8views/blob/main/public/assets/images/yaroslav-podorvanov-developer.jpg?raw=true)](https://u8views.com/github/YaroslavPodorvanov)
+![Demo](https://u8views.com/api/v1/github/profiles/159557098/views/day-week-month-total-count.svg)
+
+#### 30 . [m3-Markdown-Badges ](https://github.com/ziadOUA/m3-Markdown-Badges)
+
+🏅 A Material You inspired markdown badge collection.
+
+📍 For example :
+
+![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![Demo](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![Demo](https://m3-markdown-badges.vercel.app/stars/1/3/rzashakeri/beautify-github-profile) 
 
 ---
 
@@ -1085,7 +1082,7 @@ Draw on your GitHub contribution graph ░▒▓█
 📍 For example : &nbsp;
 
 <p dir="auto" align="center">
-	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966"><img src="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%;" width="200" height="200"></a>
+	<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966"><img src="https://camo.githubusercontent.com/40946537f361459961c2f65d966d301b105ed19134588bdc275f14af14bbe948/68747470733a2f2f692e696d6775722e636f6d2f6e505a79474e6f2e676966" alt="GitHub Spray logo" data-canonical-src="https://i.imgur.com/nPZyGNo.gif" style="max-width: 100%;" width="240" height="200"></a>
 </p>
 
 #### 38 . [Github Trends](https://github.com/avgupta456/github-trends)
@@ -1167,7 +1164,8 @@ Dynamically generated LeetCode stats for your GitHub READMEs!
 
 📍 For example : &nbsp;
 
-<img alt="LeetCode Stat Card" src="https://camo.githubusercontent.com/1eebccd44222e88e734e4b4972493af998af8fa27f2008244f3e9b90f85497d4/68747470733a2f2f6170753572683867786b2e657865637574652d6170692e75732d656173742d312e616d617a6f6e6177732e636f6d2f64656661756c742f6c656574636f64652d73746174733f757365726e616d653d4b6e6c6e4b53267468656d653d6461726b" data-canonical-src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS&amp;theme=dark" style="max-width: 100%;" width="400">
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+
 
 #### 47 . [Quote Readme](https://github.com/siddharth2016/quote-readme)
 
@@ -1426,7 +1424,7 @@ Make your GitHub repo beautiful
 [![Activity map](https://images.repography.com/36880020/rzashakeri/beautify-github-profile/recent-activity/CmQSK3ak2SSwribbfXqdbMPoQcGy1awsc85hRH2sxJw/4wCZHZGWri7bcZix3qeaaDJhLSAhtj56XFkR8XOz4HI_map.svg)](https://github.com/rzashakeri/beautify-github-profile/commits)
 
 
-#### 70 . [github readme tech stack ](https://github.com/0l1v3rr/github-readme-tech-stack)
+#### 70 . [github readme tech stack](https://github.com/0l1v3rr/github-readme-tech-stack)
 
  🔖 Show off your favorite technologies, tools, or the tech stack your project uses with these fully customizable cards on your GitHub README. 
  <br/>
@@ -1452,6 +1450,91 @@ Make your GitHub repo beautiful
 📍 For example : &nbsp;
 
 <img src="https://lanyard.cnrad.dev/api/887610165745057802">
+
+#### 72 . [Starcharts](https://github.com/caarlos0/starcharts)
+
+⭐ Plot your repo stars over time!
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://starchart.cc/rzashakeri/beautify-github-profile.svg">
+
+#### 73 . [daily DevCard](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile?utm_source=webapp&utm_medium=devcard&utm_campaign=devcardguide&utm_id=inapp)
+
+⭐ Displaying Your Extensive Reading and Preferred Technology Topics on Your GitHub README ⭐
+By showcasing the range/The number of articles you have consumed and your chosen technology topics, you have the opportunity to present your comprehensive expertise and keen interest in the field.
+<br/>
+<br/>
+📍 For example : 
+<br/>
+<br/>
+<a href="https://app.daily.dev/TheKidPadra"><img align="center" width="200" src="https://api.daily.dev/devcards/fd0bcbbf4acf4cc0a54519dcdfe63abc.png?r=tdb" alt="Padra Esfandiyar's Dev Card"/></a>
+
+
+#### 74 . [socialify](https://github.com/wei/socialify) 
+
+ 💞 Socialify your project. 🌐 Share with the world! 
+<br/>
+
+📍 For example : &nbsp;
+
+![beautify-github-profile](https://socialify.git.ci/rzashakeri/beautify-github-profile/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
+
+#### 75 . [invidget](https://github.com/SwitchbladeBot/invidget) 
+
+✉️ Invidget generates SVG renders of Discord invites that can be used in GitHub READMEs.
+<br/>
+
+📍 For example : &nbsp;
+
+![invidget](https://invidget.switchblade.xyz/discord-developers)
+
+
+#### 76 . [countdownmail](https://countdownmail.com/)
+
+The countdown timer is based on the end date and time in a specific time zone. 
+<br/>
+
+📍 For example : &nbsp;
+
+<img src="https://i.countdownmail.com/2kjo3y.gif" border="0" alt="countdownmail.com"/>
+
+
+#### 77 . [Repo Roster](https://reporoster.com//)
+
+Shout-out supporters in your GitHub README file.
+<br/>
+
+📍 For example : &nbsp;
+
+Stargazers &nbsp;
+
+<img src="https://reporoster.com/stars/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/stargazers"/>
+
+Forkers &nbsp;
+
+<img src="https://reporoster.com/forks/rzashakeri/beautify-github-profile" border="0" alt="https://github.com/rzashakeri/beautify-github-profile/network/members"/>
+
+#### 78 . [Moe Counter](https://github.com/journey-ad/Moe-Counter)
+
+Another Cute View Counter.
+<br/>
+
+📍 For example : &nbsp;
+
+![Demo](https://moe-counter.glitch.me/get/@index)
+
+#### 79 . [Star History](https://github.com/lucabubi/star-history)
+
+A Stunning star history chart generator for Github Repositories 
+<br/>
+
+📍 For example : &nbsp;
+
+![Red Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red)
+
 
 ---
 
